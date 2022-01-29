@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "description": "curso de manipulacion del DOM - workshop-1-fetch",
   "main": "/src/index.js",
-  "homepage": "https://github.com/yessygc/workshop-1-fetch",
+  "homepage": "https://yessygc.github.io/workshop-1-fetch/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
